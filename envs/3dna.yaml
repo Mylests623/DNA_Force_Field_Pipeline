@@ -1,0 +1,7 @@
+name: dna3
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - x3dna=2.4.4
+  - python=3.10
